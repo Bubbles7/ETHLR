@@ -16,7 +16,7 @@ ETHLR_main.m
 ```
 
 ## File:
--
+
 - funs: subfunction used in the ETHLR process
 - Datasets: the pan-cancer omics data (for example, PAAD_CHOL_ESCA)
 - The original dataset can be downloaded in [TCGA] (https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)
